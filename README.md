@@ -34,7 +34,7 @@ This project analyzes user experience (UX) issues, checkout optimization, person
 - 🎯 Action: Increase **positive feedback percentage** by addressing major concerns.
 
 ## 📊 Dashboard Visualization
-![Dashboard Screenshot](Screenshot 2025-02-10 204631.png)
+![Dashboard](https://github.com/itsShinobi/FlexTrade-UX-Conversion-Analysis/blob/main/Screenshot%202025-02-10%20204631.png)
 
 ## 📈 Recommendations
 ### **1. Streamline the Checkout Process**
