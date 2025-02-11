@@ -1,5 +1,5 @@
 # FlexTrade-UX-Conversion-Analysis
-FlexTrade wants to keep improving its app to stay ahead in the competitive online shopping market. This project will look into how they can make their app even better for users.
+FlexTrade wants to keep improving its app to stay ahead in the competitive online shopping market. This project will look into how they can improve their app for users.
 
 ## 📌 Project Overview
 This project analyzes user experience (UX) issues, checkout optimization, personalized product suggestions, and strategies to increase revenue for FlexTrade. Key patterns in user behaviour, cart activity, and feedback sentiment were identified using data-driven insights.
@@ -34,7 +34,7 @@ This project analyzes user experience (UX) issues, checkout optimization, person
 - 🎯 Action: Increase **positive feedback percentage** by addressing major concerns.
 
 ## 📊 Dashboard Visualization
-![Dashboard Screenshot]([images/dashboard.png](https://github.com/itsShinobi/FlexTrade-UX-Conversion-Analysis/blob/main/Screenshot%202025-02-10%20204631.png)
+![Dashboard Screenshot](Screenshot 2025-02-10 204631.png)
 
 ## 📈 Recommendations
 ### **1. Streamline the Checkout Process**
