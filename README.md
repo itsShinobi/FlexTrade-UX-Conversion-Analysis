@@ -11,7 +11,7 @@ This project analyzes user experience (UX) issues, checkout optimization, person
 - **Increase Revenue**: Discover strategies to boost user spending.
 
 ## 📊 Data Insights
-https://github.com/itsShinobi/FlexTrade-UX-Conversion-Analysis/blob/main/Screenshot%202025-02-10%20204631.png
+!(https://github.com/itsShinobi/FlexTrade-UX-Conversion-Analysis/blob/main/Screenshot%202025-02-10%20204631.png)
 
 ### **Case 1: Identifying Duplicate Entries**
 - ✅ No duplicate user sessions or feedback entries detected.
